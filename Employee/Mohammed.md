@@ -2,4 +2,4 @@
 
 - Email: mohammedali@gmail.com
 - Location: Hyderabad
-- Qualification: B.Tech, Mechanical
+- Qualification: B.Tech, Mechanical Engg
