@@ -1,1 +1,1 @@
-# cli-courses
+Intro to CLI Commands
